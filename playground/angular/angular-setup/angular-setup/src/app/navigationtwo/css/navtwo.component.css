@@ -1,0 +1,18 @@
+h1{ 
+    color: blue;
+}
+
+.nav-bar{
+    padding: 5px;
+    display: flex;
+}
+
+.nav-bar ul li{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+
+}

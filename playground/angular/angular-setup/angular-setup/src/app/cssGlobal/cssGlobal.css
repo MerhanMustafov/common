@@ -1,0 +1,10 @@
+header{ 
+    background: rgba(0, 225, 255, 0.568);
+}
+.nav-wrapper{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: 0 auto;
+    background: rgba(3, 226, 255, 0.493);
+}
